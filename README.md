@@ -4,3 +4,7 @@
 >Klien Bottle is a 1 surface 3D object. Klein bottle doesn't have geometrical volume.
 >
 >Nilesh, Nikhil and Kunj all three of us have made seperate models on solidworks.
+
+## Running files
+> All files can be runned on solidworks latest version 2022.
+> All the properties of model can be seen via solidworks.
