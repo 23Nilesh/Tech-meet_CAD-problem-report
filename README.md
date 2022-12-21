@@ -7,4 +7,4 @@
 
 ## Running files
 > All files can be runned on solidworks latest version 2022.
-> All the properties of model can be seen via solidworks.
+
